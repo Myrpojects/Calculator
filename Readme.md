@@ -1,1 +1,1 @@
-Calculator
+Mobile app looking calculator
